@@ -5,4 +5,4 @@
  2. 进入油猴脚本的Dashboard
  3. 点击Utilities
  4. 点击最下面的Import from URL
- 5. 填入js链接即可
+ 5. 填入js链接即可：`https://daneelolivaw1.github.io/feishu_enable_copy/feishu_enable_copy.js`
